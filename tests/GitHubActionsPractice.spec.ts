@@ -26,7 +26,7 @@ test("Practice git 6", async({page})=>{
   console.log("Start of practice 6")
   await page.goto("https://www.saucedemo.com/")
   expect(page).toHaveTitle("Swag Labsss")
-  console.log("test the intigation practice")
+  console.log("jenkin intigation")
   console.log("End of practice 6")
 })
 
